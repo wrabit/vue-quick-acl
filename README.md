@@ -68,5 +68,5 @@ Returns true / false if the current user has given permission.
 
 - `permission` - permission that we are checking i.e. `'order.view'` or `'list comments'`
 
-<a href="https://wrabit.github.io/vue-quick-acl" target="_blank">Demo</a>
+<a href="https://codesandbox.io/s/strange-waterfall-k20vc?fontsize=14&hidenavigation=1&module=%2Fsrc%2FApp.vue&theme=dark" target="_blank">Demo on Codesandbox</a>
 
